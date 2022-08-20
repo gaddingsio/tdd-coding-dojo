@@ -9,7 +9,7 @@ But since there is no 135 Cent coin, the machine would return 1 € (100 Cents) 
 
 So a method *"calculateChange(int payable, int paid)"* is needed. 
 
-Where payable is the total amount the customers desired item costs. And paid is the amount of cash the customer put into the machine.
+Where *payable* is the total amount the customers desired item costs. And *paid* is the amount of cash the customer has put into the machine.
 
 It should return an array of coins, so the vending machine can dispense the change to the customer.
 
