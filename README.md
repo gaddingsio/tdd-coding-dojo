@@ -2,7 +2,7 @@
 Collection of excercises for my [TDD-Coding Dojo](https://gaddings.io/coding-dojo-for-tdd/)
 
 
-* [FizzBuzz](Fizzbuzz.md)
+* [FizzBuzz](FizzBuzz.md)
 * [Password validator](Password_validator.md)
 * [Vending machine](Vending_machine.md)
 
